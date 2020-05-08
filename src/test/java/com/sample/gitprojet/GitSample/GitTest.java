@@ -6,10 +6,6 @@ public class GitTest {
 		System.out.println("Person2");
 		System.out.println("Person2 code....");
 
-		System.out.println("Person1");
-
-		System.out.println("Person1 code.....");
-
 		
 	}
 
